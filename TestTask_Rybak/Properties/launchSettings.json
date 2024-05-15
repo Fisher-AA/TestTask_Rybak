@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestTask_Rybak": {
+      "commandName": "Project",
+      "commandLineArgs": "--file-log c:\\Temp\\test\\Normal.txt --file-output c:\\Temp\\test\\3.txt 10.1.1.15  255.255.0.0"
+    }
+  }
+}

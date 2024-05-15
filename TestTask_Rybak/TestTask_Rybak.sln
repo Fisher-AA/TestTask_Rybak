@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestTask_Rybak", "TestTask_Rybak.csproj", "{4F8584DC-72C7-4922-9A30-89F53FAFAB05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\TestProject\TestProject.csproj", "{0BB0AD32-BDC8-49F9-AE46-9FBB5F106C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8584DC-72C7-4922-9A30-89F53FAFAB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8584DC-72C7-4922-9A30-89F53FAFAB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8584DC-72C7-4922-9A30-89F53FAFAB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8584DC-72C7-4922-9A30-89F53FAFAB05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB0AD32-BDC8-49F9-AE46-9FBB5F106C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB0AD32-BDC8-49F9-AE46-9FBB5F106C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB0AD32-BDC8-49F9-AE46-9FBB5F106C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB0AD32-BDC8-49F9-AE46-9FBB5F106C30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6290CF7-D612-4D8A-B5B1-E8FF528243D3}
+	EndGlobalSection
+EndGlobal

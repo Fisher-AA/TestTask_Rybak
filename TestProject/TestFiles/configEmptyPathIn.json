@@ -1,0 +1,9 @@
+{
+  "InputParams": {
+    "delimeter": "\t",
+    "pathIn": "",
+    "pathOut": "c:/Temp/test/7.txt",
+    "ipStart": "",
+    "ipMask": ""
+  } 
+}

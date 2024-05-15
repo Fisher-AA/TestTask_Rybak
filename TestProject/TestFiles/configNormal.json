@@ -1,0 +1,9 @@
+{
+  "InputParams": {
+    "delimeter": "\t",
+    "pathIn": "TestFiles/Normal.txt",
+    "pathOut": "ResultFiles/result.txt",
+    "ipStart": "10.1.1.15",
+    "ipMask": "255.255.0.0"
+  } 
+}
